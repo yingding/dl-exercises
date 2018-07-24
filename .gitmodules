@@ -1,6 +1,3 @@
-[submodule "reinforcement/gym"]
-	path = reinforcement/gym
-	url = https://github.com/openai/gym
 [submodule "rl_dynamic_programming/gym"]
 	path = rl_dynamic_programming/gym
 	url = https://github.com/openai/gym
