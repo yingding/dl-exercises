@@ -8,7 +8,7 @@ This notebook is in the **transfer-learning** directory
 
 We'll be using a pretrained network from https://github.com/machrisaa/tensorflow-vgg. Make sure you clone this repository into the **transfer-learning** directory.
 
-````console
+```console
 cd  transfer-learning
 git clone https://github.com/machrisaa/tensorflow-vgg.git tensorflow_vgg
 ```
@@ -18,7 +18,7 @@ git clone https://github.com/machrisaa/tensorflow-vgg.git tensorflow_vgg
 * scikit-image
 
 # 2 Install the packages required
-````console
+```console
 pip3 install -r requirements.txt
 ```
 
